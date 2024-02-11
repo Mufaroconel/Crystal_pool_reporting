@@ -20,7 +20,7 @@ This dataset allows efficient tracking of sales, commission management, and perf
 
 ## Contributors
 
-- [Mufaroconel]
-- [nyakudyamufa2002@gmail.com]
+- Mufaroconel
+- nyakudyamufa2002@gmail.com
 
 Contributions welcome—enhance features, improve visualization, or provide insights based on the dataset.
