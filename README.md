@@ -1,27 +1,26 @@
-# Employee Payroll Management System
+# Sales Management System
 
 ## Overview
 
-This repository contains a simple demonstration of the power of Excel in managing employee payroll data. The dataset provided showcases various transactions related to product sales, along with details such as transaction number, product code, product description, store cost, sale price, profit, commission, employee first name, last name, and sale location.
+This repository showcases a simple Excel-based sales management system tailored for Crystal Pool salesmen. The dataset includes transaction details like product codes, descriptions, costs, prices, profit, commission, employee names, and sale locations.
 
 ## Dataset Format
 
-The dataset is organized in tabular format, with each row representing a transaction and columns indicating different attributes such as month, transaction number, product code, product description, store cost, sale price, profit, commission, employee first name, last name, and sale location.
+Tabular format with rows representing transactions and columns indicating attributes such as transaction number, product code, description, costs, prices, profit, commission, employee names, and sale locations.
 
 ## Example Transaction
 
-| Month | Transaction Number | Product Code | Product Description | Store Cost | Sale Price | Profit | Commission | First Name | Last Name | Sale Location |
-|-------|--------------------|--------------|---------------------|------------|------------|--------|------------|------------|-----------|---------------|
-| Jan   | 1,001              | 9822         | Pool Cover          | $58.30     | $98.40     | $40.10 | 8.02       | Chalie     | Barns     | NM            |
+| Transaction No. | Product Code | Description | Cost | Price | Profit | Commission | First Name | Last Name | Location |
+|-----------------|--------------|--------------|------|-------|---------|-------------|------------|-----------|----------|
+| 1,001           | 9822         | Pool Cover   | $58.30 | $98.40 | $40.10 | 8.02        | Chalie     | Barns     | NM       |
 
 ## Usage
 
-This dataset can be utilized to analyze employee performance, track product sales, calculate profits, and manage commissions effectively using Excel or other spreadsheet software.
+This dataset allows efficient tracking of sales, commission management, and performance analysis for Crystal Pool salesmen using Excel or similar spreadsheet software.
 
 ## Contributors
 
-- [Your Name]
-- [Your Team]
+- [Mufaroconel]
+- [nyakudyamufa2002@gmail.com]
 
-Feel free to contribute by adding more features, improving data visualization, or providing insights based on the existing dataset.
-
+Contributions welcome—enhance features, improve visualization, or provide insights based on the dataset.
